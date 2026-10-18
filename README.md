@@ -29,7 +29,14 @@ PayResolve AI aims to make payment recovery safer by monitoring transfer states,
 
 ## Presentation
 
-📄 **[View or Download the Presentation (PDF)](./PayResolve-AI-Presentation.pdf)**
+📄 **Download Presentation (PDF)**
+
+View or download the [PayResolve AI Presentation](./PayResolve-AI-Presentation.pdf).
+
+🎬 **View Animated Presentation**
+
+Experience the animated slides on [Canva](https://canva.link/k0fasolu220nfx5).
+
 
 ## Project Information
 
